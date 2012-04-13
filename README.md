@@ -17,10 +17,10 @@ Web Geek
 ##### Web Developer and Consultant - HTML/PHP/JS - 2008-Date
 I’ve worked on freelance projects solidly since 2008. Projects include dozens of Wordpress blogs, Moodle sites and plugin development. 
 #### Source Cog
-##### Hosting Platform - LAMP/WHM/PHP - 2009-2011
+##### Hosting Platform Founder - LAMP/WHM/PHP - 2009-2011
 My stab at creating a web app store in 2009. One click installs of hundreds of web apps like Wordpress, Joomla, Drupal etc... Built into hundreds of sights but the realties and the costs of running a hosting business mean’t I handed my customers off to site5.com in 2011.
 #### eLearning Partnership
-##### eLearning - Moodle/PHP - 2008-2010
+##### eLearning Provider Cofounder - Moodle/PHP - 2008-2010
 The eLearning Partnership I started with Clifford Andrews, PGCE in teacher training. Together we developed e-learning websites and courses that went to multiple thousands of users. In 2010 Clifford took over the eLearning Partnership as a whole.
 #### Norwich School of Flying
 ##### Operations Assistant - 2004-2008
