@@ -2,9 +2,8 @@
 
 Web Geek
 
-## ProfileI building cutting edge web apps and get them to users. I write simple, modern PHP, Javascript, (X)HTML and CSS and know my way around MySQL databases. I love being creative with technology to solve real world problems. I like listening to music, playing the drums, riding my bike and flying.## Skills / Knowledge#### Programming * 5 years experience in clean, compliant (X)HTML, CSS,  Javascript and JQuery * 3 years experience in Object-Oriented and MVC PHP with MySQL. * Experience using and building on Wordpress, Moodle and Codeigniter. * Experience in both SVN and git for managing projects in teams. * Experience running scalable hosting platforms; EC2, WHM & Linux Servers. * Basic understanding of Python and Ruby.
-#### Marketing
- * Understanding of analytics and how to use them to inform design and marketing. * Experience in running CPC marketing campaigns.#### Music
+## ProfileI building cutting edge web apps and get them to users. I write simple, modern PHP, Javascript, (X)HTML and CSS and know my way around MySQL databases. I love being creative with technology to solve real world problems. I like listening to music, playing the drums, riding my bike and flying.## Skills / Knowledge#### Programming * 5 years experience in clean, compliant (X)HTML, CSS,  Javascript and JQuery. * 3 years experience in Object-Oriented and MVC PHP with MySQL. * Experience using and building on Wordpress, Moodle and Codeigniter. * Experience in both SVN and git for managing projects in teams. * Experience running scalable hosting platforms; EC2, WHM & Linux Servers. * Basic understanding of Python and Ruby. * Basic understanding of Redis and MongoDB NoSQL databases.
+#### Marketing * Understanding of analytics and how to use them to inform design, development and marketing. * Experience in running CPM marketing campaigns.#### Music
  * Experience setting up a label and managing royalties through PRS.
 ## Portfolio / Experience
 #### UKF Music
