@@ -2,7 +2,7 @@
 
 Technical Architect / Frontend & PHP Developer 
 
-## ProfileI work with technology to create sites, apps and content and get it to users. I write simple, modern PHP, Javascript, (X)HTML and CSS. I love being creative with technology to solve real world problems.
+## ProfileI work with technology to create sites, apps and content and get them to users. I write simple, modern PHP, Javascript, (X)HTML and CSS. I love being creative with technology to solve real world problems.
 Find me on [GitHub](http://github.com/benbowler), [LinkedIn](http://uk.linkedin.com/in/benbowler) and [Twitter](http://twitter.com/benbowler).## Skills / Knowledge#### Programming * 7 years experience in clean, compliant (X)HTML, CSS,  Javascript and JQuery. * 5 years experience in Object-Oriented and MVC PHP with MySQL. * Experience using and building on Wordpress, Moodle and Codeigniter. * Experience in both SVN and git for managing projects in teams. * Experience running scalable hosting platforms; EC2, WHM & Linux Servers. * Experiance in agile/scrum. * Basic understanding of Python and Ruby. * Basic understanding of Redis and MongoDB NoSQL databases.
 #### Live Streaming / Video
 
